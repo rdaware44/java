@@ -1,0 +1,2 @@
+price xpath : //div[contains(text(),'Total Amount')]//following::span[1]
+//span[contains(text(),' ₹8,528')] 
